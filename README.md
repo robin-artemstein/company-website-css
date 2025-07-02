@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Company website with CSS page transition
+
+This is the company website with CSS page transition for demostration, you can change whatever you want.
 
 ## Getting Started
 
